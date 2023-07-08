@@ -1,10 +1,10 @@
 {
-  "name": "cocktail-tracker-app",
+  "name": "binary-upload-boom",
   "version": "1.0.0",
-  "description": "Cocktail tracker",
+  "description": "cocktail app",
   "main": "server.js",
   "scripts": {
-    "start": "npm run start",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
